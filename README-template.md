@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-6IQWbsI5xV](https://www.frontendmentor.io/solutions/news-homepage-6IQWbsI5xV)
-- Live Site URL: [https://unaygney.github.io/newsHomepage/](https://unaygney.github.io/newsHomepage/)
+- Solution URL:(https://www.frontendmentor.io/solutions/news-homepage-6IQWbsI5xV)
+- Live Site URL:(https://unaygney.github.io/newsHomepage/)
 
 ## My process
 
